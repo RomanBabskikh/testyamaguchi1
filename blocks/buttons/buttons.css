@@ -1,0 +1,9 @@
+.buttons {
+    width: 474px;
+    height: 202px;
+    left: 330px;
+    top: 480px;
+    display: flex;
+    justify-content: space-between;
+    position: absolute;
+}

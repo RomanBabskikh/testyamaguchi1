@@ -1,0 +1,22 @@
+    .heading {
+        width: 646px;
+        height: 218px;
+        font-style: normal;
+        font-weight: 300;
+        font-size: 62px;
+        line-height: 62px;
+        color: #0B64FE;
+        margin: 0;
+        font-family: 'Ubuntu', sans-serif;
+    }
+    
+    @media screen and (max-width: 320px) {
+        .heading {
+            font-style: normal;
+            font-weight: bold;
+            font-size: 38px;
+            line-height: 38px;
+            color: #0B64FE;
+            font-family: 'Bebas Neue';
+        }
+    }
